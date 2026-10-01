@@ -1,0 +1,213 @@
+    1  css
+    2  git -- version
+    3  sh~/downloads/Miniforge3-MacOS-arm64.sh
+    4   ~ Miniforge3-25.3.1-0-MacOSX-arm64.sh
+    5  chmod +x ~/Downloads/Miniforge3-25.3.1-0-MacOSX-arm64.sh\n
+    6  bash ~/Downloads/Miniforge3-25.3.1-0-MacOSX-arm64.sh\n
+    7  brew install xfoil\n
+    8  xfoil
+    9  pip install joblib tqdm
+   10  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   11  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   12  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   13  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   14  whoami
+   15  groups
+   16  staff everyone localaccounts _appserverusr admin _appserveradm _lpadmin com.apple.sharepoint.group.1 _appstore _lpoperator _developer _analyticsusers com.apple.access_ftp com.apple.access_screensharing
+   17  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   18  brew --version
+   19  -- version
+   20  /Users/AV/.zprofile
+   21  ls /opt/homebrew\n
+   22  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile\n
+   23  eval "$(/opt/homebrew/bin/brew shellenv)"\n
+   24  brew --version
+   25  brew install xfoil
+   26  brew tap brewsci/formulae
+   27  ?
+   28  ls /Applications/Xfoil.app/Contents/MacOS\n
+   29  ls /Applications\n
+   30  find /Applications -iname "*xfoil*"\n
+   31  find /Applications -iname "*foil*.app"\n
+   32  ls /Applications/Xfoil.app/Contents/MacOS\n
+   33  mkdir -p ~/xfoilbin
+   34  cp /Applications/Xfoil.app/Contents/MacOS/Xfoil ~/xfoilbin/xfoil\n
+   35  chmod +x ~/xfoilbin/xfoil\n
+   36  echo 'export PATH="$HOME/xfoilbin:$PATH"' >> ~/.zprofile\nsource ~/.zprofile\n
+   37  conda activate aero
+   38  pip install numpy scipy pandas matplotlib scikit-learn jupyterlab numba tqdm\n
+   39  jupyter lab
+   40  conda activate aero
+   41  jupyter lab
+   42  conda activate aero
+   43  juptyer lab
+   44  jupyter lab
+   45  conda activate aero
+   46  jupyter lab
+   47  pkill -f Opera
+   48  "/Users/AV/Desktop/Computational Thinking/Class1"
+   49  "/Users/AV/Desktop/Computational Thinking/Class1"
+   50  "enter program name, for example /Users/AV/Desktop/Computational Thinking/a.out"
+   51  "/Users/AV/Desktop/Computational Thinking/Class1"
+   52  "/Users/AV/Desktop/Computational Thinking/Class1"
+   53  "/Users/AV/Desktop/Computational Thinking/Assignment1"
+   54  "enter program name, for example /Users/AV/Desktop/Computational Thinking/a.out"
+   55  1
+   56  1
+   57  1
+   58  2
+   59  3
+   60  "enter program name, for example /Users/AV/Desktop/Computational Thinking/a.out"
+   61  "/Users/AV/Desktop/Computational Thinking/Assignment1b"
+   62  "/Users/AV/Desktop/Computational Thinking/Assignment1b"
+   63  "/Users/AV/Desktop/Computational Thinking/Assignment1b"
+   64  ~$ python3 --version
+   65  python3 --version
+   66  conda aeroa
+   67  /Applications/Python\ 3.14/Install\ Certificates.command ; exit;
+   68  python3 --version
+   69  echo 'export PATH="/Library/Frameworks/Python.framework/Versions/3.14/bin:$PATH"' >> ~/.zshrc\n
+   70  source ~/.zshrc\n
+   71  python3 --version
+   72  /usr/local/bin/python3 "/Users/AV/Desktop/Coding Cafe/Class1.p"
+   73  "/Users/AV/Desktop/Computational Thinking/Assignment2b"
+   74  "/Users/AV/Desktop/Computational Thinking/Assignment2c"
+   75  "/Users/AV/Desktop/Computational Thinking/Assignment2c"
+   76  "/Users/AV/Desktop/Computational Thinking/Assignment2a"
+   77  "/Users/AV/Desktop/Computational Thinking/Assignment2d"
+   78  "/Users/AV/Desktop/Computational Thinking/Assignment2d"
+   79   /usr/bin/env /usr/local/bin/python3 /Users/AV/.vscode/extensions/ms-python.debugpy-2026.6.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53782 -- /Users/AV/Desktop/Calculus/Lab2.py 
+   80   cd /Users/AV/Desktop/Calculus ; /usr/bin/env /usr/local/bin/python3 /Users/AV/.vscode/extensions/ms-python.debugpy-2026.6.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53845 -- /Users/AV/Desktop/Calculus/Lab2.py 
+   81   cd /Users/AV/Desktop/Calculus ; /usr/bin/env /Users/AV/miniforge3/bin/python /Users/AV/.vscode/extensions/ms-python.debugpy-2026.6.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53958 -- /Users/AV/Desktop/Calculus/Lab2.py 
+   82   conda activate base
+   83  conda install numpy
+   84  conda install matplotlib
+   85   /usr/bin/env /Users/AV/miniforge3/bin/python /Users/AV/.vscode/extensions/ms-python.debugpy-2026.6.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53980 -- /Users/AV/Desktop/Calculus/Lab2.py 
+   86   conda activate base
+   87  ls
+   88  cd ~/Desktop
+   89  rm -r Codingcafe
+   90  mkdir CodingCafe
+   91  cd /CodingCafe
+   92  cd CodingCafe
+   93  mkdir Week01
+   94  mkdir Week02
+   95  cd Week02
+   96  touch Notes.md
+   97  mkdir README.md
+   98  ls
+   99  rm README.md
+  100  ls
+  101  rmdir README.md
+  102  ls
+  103  cd CodingCafe
+  104  cd -
+  105  cd +
+  106  cd ..
+  107  cd .
+  108  cd CodingCafe
+  109  touch README.md
+  110  ls
+  111  cd~
+  112  cd ~
+  113  ls CodingCafe/Week02
+  114  ls CodingCafe
+  115  cd ~/Desktop
+  116  ls CodingCafe/Week02
+  117  ls -R CodingCafe
+  118  nano notes.md
+  119  nano notes.md
+  120  brew install tree]
+  121  brew install tree
+  122  cd Codingcafe
+  123  tree
+  124  ls CodingCafe/Week02
+  125  cf - 
+  126  cd -
+  127  ls CodingCafe/Week02
+  128  nano notes.md
+  129  cd CodingCafe
+  130  cp README.md README-backup.md 
+  131  mv README-backup.md Week01/
+  132  cd Week01
+  133  mv README.md old-readme.md
+  134  ls
+  135  mv README-backup.md old-readme.md
+  136  ls
+  137  rm old-readme.md
+  138  ls
+  139  nano notes.md
+  140  cd ..
+  141  cd Week02
+  142  ls
+  143  nano Notes.md
+  144  ls la
+  145  ls-la
+  146  ls -la
+  147  cat Notes.md
+  148  cd ..
+  149  cd ..
+  150  mv Notes.md CodingCafe
+  151  ls
+  152  ls /CodingCafe
+  153  ls CodingCafe
+  154  cd CodingCafe
+  155  mv Notes.md Week02/
+  156  ls
+  157  cd Week02
+  158  nano Notes.md
+  159  cd ..
+  160  echo $PATH
+  161  which python3
+  162  which pip
+  163  which ls 
+  164  nano Notes.md
+  165  cd Week02
+  166  nano Notes.md
+  167  which pytn3
+  168  nano Notes.md
+  169  cd CodingCafe
+  170  cd ..
+  171  python3 -m venv .venv
+  172  ls
+  173  ls -a
+  174  source .venv/bin/activate
+  175  which python3
+  176  cd Week02
+  177  nano Notes.md
+  178  which python3
+  179  nano Notes.md
+  180  pip list
+  181  pip install requests
+  182  ip list
+  183  pip list
+  184  nano Notes.md
+  185  deactivate
+  186  which python3
+  187  nano Notes.md
+  188  n ls
+  189  man ls
+  190  man man
+  191  nano Notes.md
+  192  cd..
+  193  cd ..
+  194  cd ..
+  195  cd Coding\ Cafe
+  196  history
+  197  python3
+  198  cd week02
+  199  cd Week02
+  200  cd Week02
+  201  cd ..
+  202  cd CodingCafe
+  203  cd Week02
+  204  nano Notes.md
+  205  cd ..
+  206  history > Week02/lab01-log.txt
+  207  history 1
+  208  cd Week02
+  209  rm lab01-log.txt
+  210  ls
+  211  history 1 > Week02/lab01-log.txt
+  212  history 1 > Week02/lab01-log.txt
+  213  cd ..
